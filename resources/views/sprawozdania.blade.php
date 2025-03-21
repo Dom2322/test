@@ -1,0 +1,10 @@
+@extends('layout')
+@section('title', 'Sprawozdania')
+@section('content')
+    <div class="container o_nas_kontakt">
+        <h2>Sprawozdanie 2024</h2>
+        Udzieliliśmy pomocy 239 dzieciom w formie zakupu podręczników i materiałów szkolnych.<br><hr>
+        Zorganizowaliśmy 26 spotkań w których wzięło udział blisko 341 uczestników.<br><hr>
+        Zorganizowalimy oobóz letni dla 140 dzieci, podczas którego uczestnicy brali udział w róznych zajęciach artystycznych i sportowych.<br><hr>
+    </div>
+@endsection
